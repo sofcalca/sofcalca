@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Bienveue !
 
-<!--
-**sofcalca/sofcalca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Qui suis-je ?
 
-Here are some ideas to get you started:
+Data scientist de formation, je cherche à mettre des applications avec machine learning entre les mains de mes utilisateurs.
+Je suis actuellement consultante chez [OCTO Technology](https://octo.com/), et j'interviens chez mes clients sur des sujets de delivery logiciel, spécialement dans un contexte analytique ou avec machine learning.
+J'aime partager à la communauté ce que j'apprends, principalement au sujet du machine learning en production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Mes contributions
+
+- 📰 [mes articles de blog](articles.md) ;
+- 🎤 mes confs 🚧 ;
+- 📖 mon livre 🚧 ;
+
+### 📄 Mon CV
+
+Retrouvez-moi [sur LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-calcagno/)
