@@ -9,10 +9,10 @@ Compte-rendu de la journée Event Sourcing à la conférence DDD Europe 2023.
 Publié le 31/05/2023 avec [Miranda Lin-guignard](https://www.linkedin.com/in/miranda-lin-guignard-8399424a/) et [Mehdi Houacine](https://www.linkedin.com/in/mehdihouacine/)
 
 CR du comptoir que nous avons présenté avec [Mehdi Houacine](https://www.linkedin.com/in/mehdihouacine/) et [Thomas Dobrzelewski](https://www.linkedin.com/in/thomas-dobrzelewski-2b086437/).
-Nous y parlons de comment nous avons utilisé des méthodologies issues du DDD pour naviguer dans l'incertitude du développement d'un produit innovant : un policy admin system plus transparant et sécurisé utilisant la blockchain.
+Nous y parlons de comment nous avons utilisé des méthodologies issues du DDD pour naviguer dans l'incertitude du développement d'un produit innovant : un policy admin system plus transparent et sécurisé utilisant la blockchain.
 
 ### [Stratégies et patterns pour déployer automatiquement un modèle de machine learning](https://blog.octo.com/strategies-et-patterns-pour-deployer-automatiquement-un-modele-de-machine-learning)
-Publié le 23/12/2022 avec [Maria MOKBEL](https://www.linkedin.com/in/maria-mokbel-b4590512a/)
+Publié le 23/12/2022 avec [Maria Mokbel](https://www.linkedin.com/in/maria-mokbel-b4590512a/)
 
 Revue de stratégies et patterns pour déployer un modèle de machine learning en production : lesquels utiliser selon mon contexte ?
 
@@ -37,9 +37,9 @@ Publié le 29/01/2021 avec [Christophe Thibaut](https://www.linkedin.com/in/chri
 🔗 [Partie 1](https://blog.octo.com/westrum-organizational-culture-et-machine-learning-partie-1-impacts-de-la-culture-sur-le-delivery) et
 🔗 [Partie 2](https://blog.octo.com/westrum-organizational-culture-et-machine-learning-partie-2-changer-la-culture)
 
-Comment la culutre d'entreprise peut rendre plus ou moins difficile la mise en production de modèles de machine learning.
+Comment la culture d'entreprise peut rendre plus ou moins difficile la mise en production de modèles de machine learning.
 Nous abordons notamment comment une [culture générative au sens de Westrum](https://www.researchgate.net/publication/8150380_A_Typology_of_Organisational_Cultures)
-favorise l'innovation qu'est introduire du machine learning dans certains métiers et des pistes pour la mettre en place.
+favorise l'innovation que suppose d'introduire du machine learning dans certains métiers et des pistes pour la mettre en place.
 
 ### [Lean for machine learning](https://blog.octo.com/lean-for-machine-learning-ml)
 Publié le 23/09/2020 avec [Pierre Baonla Bassom](https://www.linkedin.com/in/pierre-baonla-bassom-42447592/)

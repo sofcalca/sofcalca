@@ -1,4 +1,4 @@
-## 👋 Bienveue !
+## 👋 Bienvenue !
 
 ### 👩‍💻 Qui suis-je ?
 
