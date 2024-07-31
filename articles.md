@@ -1,5 +1,10 @@
 ## 📰 Mes articles
 
+### [Construire un chatbot à l’heure des LLMs](https://blog.octo.com/construire-un-chatbot-a-l'heure-des-llms-1)
+Publié le 31/07/2024 avec [Walid Lahyani](https://www.linkedin.com/in/walidlahyani/)
+
+Comment les acteurs classiques du chatbot intègrent les LLMs à leurs solutions ?
+
 ### [Retour sur la conférence EventSourcing Live @ DDD Europe 2023](https://blog.octo.com/retour-sur-la-conference-eventsourcing-live-ddd-europe-2023)
 Publié le 03/07/2023 avec [Mehdi Houacine](https://www.linkedin.com/in/mehdihouacine/)
 
