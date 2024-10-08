@@ -6,7 +6,7 @@ Data scientist de formation, je cherche à mettre des applications avec machine 
 Je suis actuellement consultante chez [OCTO Technology](https://octo.com/), 
 où j'interviens sur des missions d'architecture IA, MLOps et GenAI.
 
-Je suis également une des organisatrices du [Meetup Crafting Datascience](https://www.meetup.com/fr-FR/crafting-datascience/events/).
+Je suis également une des organisateurs du [Meetup Crafting Datascience](https://www.meetup.com/fr-FR/crafting-datascience/events/).
 
 
 ### ✍️ Mes contributions
