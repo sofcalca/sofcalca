@@ -4,7 +4,9 @@
 
 Data scientist de formation, je cherche à mettre des applications avec machine learning entre les mains de mes utilisateurs.
 Je suis actuellement consultante chez [OCTO Technology](https://octo.com/), 
-où j'interviens chez mes clients sur des sujets de delivery logiciel, spécialement dans un contexte analytique ou de machine learning.
+où j'interviens sur des missions d'architecture IA, MLOps et GenAI.
+
+Je suis également une des organisatrices du [Meetup Crafting Datascience](https://www.meetup.com/fr-FR/crafting-datascience/events/).
 
 
 ### ✍️ Mes contributions
