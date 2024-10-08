@@ -11,7 +11,7 @@ Combien faudra-t-il investir dans le développement du produit ?
 Le machine learning sera-t-il vraiment un facteur différenciant pour les utilisateurs ?
 Ce talk propose des pratiques MLOps qui permettront de réduire rapidement l'incertitude.
 
-📽 Vidéo non encore disponible
+[📽 Retrouvez la vidéo](https://www.youtube.com/watch?v=wnextp_2I4w)
 
 ### ✍ Dessine moi une architecture de Data Science
 
