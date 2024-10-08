@@ -12,6 +12,7 @@ Le machine learning sera-t-il vraiment un facteur différenciant pour les utilis
 Ce talk propose des pratiques MLOps qui permettront de réduire rapidement l'incertitude.
 
 [📽 Retrouvez la vidéo](https://www.youtube.com/watch?v=wnextp_2I4w)
+[🗒️ Retrouvez le support de ma présentation](https://github.com/sofcalca/talks/blob/main/2024%20-%20Piloter%20par%20l'incertitude%2C%20ou%20comment%20adopter%20une%20approche%20pragmatique%20du%20MLOps.pdf)
 
 ### ✍ Dessine moi une architecture de Data Science
 
