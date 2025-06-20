@@ -44,6 +44,25 @@ Nous parlons des enseignements de l'étude [Accelerate](https://learning.oreilly
 
 ### ⌚ La CI/CD à l’heure du Machine Learning
 
+### 🚀 Retour d'expérience sur le passage à l'échelle des agents IA chez Wakam
+
+[Crafting Data Science #15](https://www.meetup.com/fr-FR/crafting-datascience/events/306457375) (03/2025) avec [Etienne Debost](https://www.linkedin.com/in/etienne-debost-18736274/)
+
+Comment passer à l'échelle avec les agents IA en entreprise ?
+Nous vous parlons de notre approche chez Wakam et de nos apprentissages :
+- Commencer par un cas d'usage métier à fort ROI;
+- Mettre l'accent sur la qualité des données traitées par l'agent;
+- Itérer rapidement avec les utilisateurs finaux;
+- Se concentrer sur la valeur, pas sur la tech.
+
+Résultats :
+- \> 70% d'adoption par les salariés
+- 133 agents IA à disposition
+- 40-60% de gains de productivité sur des processus complexes
+
+
+[📽 Retrouvez la vidéo](https://www.youtube.com/watch?v=hfhxYSGAgs8)
+
 Joué deux fois :
 - [Paris Data Ladies #46 - MLOps](https://www.meetup.com/fr-FR/paris-dataladies/events/298052659/) (01/2024)
 - [Crafting Data Science #11](https://www.meetup.com/fr-FR/crafting-datascience/events/297496877/) (12/2023) 

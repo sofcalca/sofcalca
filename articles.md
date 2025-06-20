@@ -1,5 +1,12 @@
 ## 📰 Mes articles
 
+### Et si l'IA cassait Internet ? Comment les agents transforment la navigation web et son modèle économique
+Publié
+[sur le blog OCTO](https://blog.octo.com/et-si-l'ia-cassait-internet-comment-les-agents-transforment-la-navigation-web-et-son-modele-economique) le 31/03/2025
+et dans l'[OCTO Magazine #3](https://publication.octo.com/octo-mag-3) de juin 2025
+
+Revue des conséquences que l'utilisation d'agents conversationnels aurait sur Internet si elle venait à remplacer la recherche comme porte d'entrée sur le web.
+
 ### [Construire un chatbot à l’heure des LLMs](https://blog.octo.com/construire-un-chatbot-a-l'heure-des-llms-1)
 Publié le 31/07/2024 avec [Walid Lahyani](https://www.linkedin.com/in/walidlahyani/)
 
