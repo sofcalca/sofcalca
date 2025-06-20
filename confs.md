@@ -42,8 +42,6 @@ Nous parlons des enseignements de l'étude [Accelerate](https://learning.oreilly
 
 ## Meetups
 
-### ⌚ La CI/CD à l’heure du Machine Learning
-
 ### 🚀 Retour d'expérience sur le passage à l'échelle des agents IA chez Wakam
 
 [Crafting Data Science #15](https://www.meetup.com/fr-FR/crafting-datascience/events/306457375) (03/2025) avec [Etienne Debost](https://www.linkedin.com/in/etienne-debost-18736274/)
@@ -60,8 +58,9 @@ Résultats :
 - 133 agents IA à disposition
 - 40-60% de gains de productivité sur des processus complexes
 
-
 [📽 Retrouvez la vidéo](https://www.youtube.com/watch?v=hfhxYSGAgs8)
+
+### ⌚ La CI/CD à l’heure du Machine Learning
 
 Joué deux fois :
 - [Paris Data Ladies #46 - MLOps](https://www.meetup.com/fr-FR/paris-dataladies/events/298052659/) (01/2024)
